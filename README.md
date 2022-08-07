@@ -19,6 +19,7 @@ I`am a junior developer.
 ## Operating System & Tools
 
 [![windows](https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)]()
+[![linux](https://img.shields.io/badge/ubuntu-jammy-green)]()
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)]()
 [![Intellij](https://img.shields.io/badge/IDE-IntelliJ-yellow?style=flat-square&logo=JetBrains)]()
