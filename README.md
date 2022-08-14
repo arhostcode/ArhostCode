@@ -2,7 +2,7 @@
 
 # Hi, my name is Egor
 
-I`am a junior developer.
+I`am a student developer.
 
 ## Technology Stack
 
