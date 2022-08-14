@@ -9,6 +9,7 @@ I`am a student developer.
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)]()
 [![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=Java&logoColor=ffffff)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=JavaScript&logoColor=ffffff)]()
+[![Kotlin](https://img.shields.io/badge/-Kotlin-8b00ff?style=flat-square&logo=Kotlin&logoColor=ffffff)]()
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)]()
 
