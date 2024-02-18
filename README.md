@@ -47,16 +47,7 @@ discoveries, and follow my journey in the coding realm. Let's together shape the
 
 Below you can see the key projects of my life as a developer
 
-
-<div style="display: flex; align-items: center">
-<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <g>
-        <path d="M0 5H26V18.2411C26 21.6365 24.1911 24.7669 21.25 26.471L13 31.3307L4.75871 26.471C1.81765 24.7796 0.0126224 21.6365 0.0126224 18.2411V5H0Z" fill="#FFDD2D"/>
-        <path fill-rule="evenodd" clip-rule="evenodd" d="M7 11.9677V16.0826C7.56802 15.4515 8.59044 15.0223 9.75172 15.0223H11.0266V19.8063C11.0266 21.0811 10.6858 22.1919 10.1683 22.8104H15.83C15.3125 22.1919 15 21.0811 15 19.8063V15.0223H16.24C17.4139 15.0223 18.4446 15.4515 19 16.0826V11.9677H7Z" fill="#333333"/>
-    </g>
-</svg>
-<h3 style="display: inline">Tinkoff course</h3>
-</div>
+### [Tinkoff course](https://github.com/arhostcode/linktracker)
 
 In this course, I gained key java skills, including advanced knowledge about reflection, code generation,
 multithreading. In the 2nd semester of the course, I gained knowledge about working with web applications, and writing
@@ -73,13 +64,13 @@ them using a framework like Spring.
 ![Репозиторий 1 семестра](https://repo.ardyc.ru/?repository=arhostcode/java-course-tinkoff&opacity=1&background-color=545E75&text-color=FFFFFF)
 ![Репозиторий 2 семестра](https://repo.ardyc.ru/?repository=arhostcode/linktracker&opacity=1&background-color=545E75&text-color=FFFFFF)
 
-#### Fractal flame generator
+#### [Fractal flame generator](https://github.com/arhostcode/fractal-flame-generator)
 One of the projects of this course, converted to the web for automatic fractal generation on request
 
 ![Fractal flame generator](https://repo.ardyc.ru/?repository=arhostcode/fractal-flame-generator&opacity=1&background-color=FCAA67&text-color=FFFFFF)
 
 
-### Samsung academy
+### [Samsung academy](https://github.com/arhostcode/umirea)
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -93,7 +84,7 @@ During the course, an android application and a microservice backend for it were
 
 ![Umirea](https://repo.ardyc.ru/?repository=arhostcode/umirea&opacity=1&background-color=D8A7CA&text-color=FFFFFF)
 
-### Repository badges
+### [Repository badges](https://github.com/arhostcode/repobadge)
 A project for generating repository badges. All the badges that you see on this page are generated using it
 
 <div>
